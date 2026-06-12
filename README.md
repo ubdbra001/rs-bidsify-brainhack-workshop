@@ -12,6 +12,7 @@ The [RS-BIDSify](https://github.com/ubdbra001/rs-bidsify) repository
 ## Sample data
 
 Here are some sample datasets to play with:  
-1. Dataset 1
-2. Dataset 2
-3. Dataset 3
+1. [Pavlov data - Two conditions](https://drive.google.com/file/d/1S3XOdP_61Zz_HGrD44AIOB8LOC_qfT8b/view?usp=drive_link)
+2. [Pavlov data - Single conditions](https://drive.google.com/file/d/1b6-h2my08vDRdYjeiYhArxM5xfE_MZoA/view?usp=sharing)
+3. [Eimer replication data - custom config](https://drive.google.com/file/d/17NIY1bZfbZ9fqCrNr71-213MBX-4sS13/view?usp=drive_link)
+4. [Hajack replication data - custom config & no phenotype](https://drive.google.com/file/d/1nPBo1mcARnPE0EPnQph5l2mj9G3lImRm/view?usp=drive_link)
