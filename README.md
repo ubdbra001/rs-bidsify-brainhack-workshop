@@ -9,6 +9,8 @@ Repo collecting the materials for the EEG101: WG2 - Data Curation workshop at Br
 
 The [RS-BIDSify](https://github.com/ubdbra001/rs-bidsify) repository
 
+A [Jupyter notebook](https://github.com/ubdbra001/rs-bidsify/blob/main/notebooks/rs-bidsify.ipynb) outlining RS-BIDSify usage
+
 ## Sample data
 
 Here are some sample datasets to play with:  
