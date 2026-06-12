@@ -5,6 +5,8 @@ Repo collecting the materials for the EEG101: WG2 - Data Curation workshop at Br
 
 [The workshop talk slides](https://docs.google.com/presentation/d/1VQvR77Y3e2l3bZu7MYZ1Br7zYkL7fKYhN8OPBEvwIxU/edit?usp=sharing)
 
+[Open document for feedback](https://docs.google.com/document/d/172HjvsVrYxyNRmJHYX5cOuHtlbBVs9bh87tP5xNusL8/edit?tab=t.0)
+
 ## RS-BIDSify repo
 
 The [RS-BIDSify](https://github.com/ubdbra001/rs-bidsify) repository
